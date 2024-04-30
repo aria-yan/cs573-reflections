@@ -1,0 +1,5 @@
+# Week 6 Reflection
+
+https://oec.world/en/profile/country/usa
+
+I found this website when I was in high school researching the economic imports and exports of every country for a MUN conference. I found the interactivity fairly interesting, as well as the display of the size and categorical information. This visualization benefits from how interesting the data inately is.The data is limited up to 2022 and is lacking some features, because the website wants you to pay for the data and high quality visualizations from them. It's also a little laggy at times because the sheer quantity and complexity of data. The visualization itself a little lackluster in its design. I personally find the colors a little garish.  With the total growth market heatmap, it would be nice if the countries were labelled for those that are more geographically impaired. Additionally, I would prefer a different color scale that can obviously communicate if a country was importing more or exporting more. Finally, I would consider using a networking tool to show the relationship of trade between countries rather than just the squares. 
